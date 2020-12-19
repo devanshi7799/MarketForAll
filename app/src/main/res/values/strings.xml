@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MFA</string>
+
+    <string-array name="product_category">
+        <item>Bath</item>
+        <item>Bed</item>
+        <item>Grocery</item>
+        <item>Crockery</item>
+        <item>Electrical</item>
+        <item>Fabric</item>
+        <item>Footware</item>
+        <item>Fresh Fruits</item>
+        <item>Fresh Vegetables</item>
+        <item>Furniture</item>
+        <item>Gift Articles</item>
+        <item>Handkerchief/Napikins/Towels</item>
+        <item>Home Appliances</item>
+        <item>Kids Wear</item>
+        <item>Luggage</item>
+        <item>Mens wear</item>
+        <item>Electronics</item>
+        <item>Stationery</item>
+        <item>Winter wear</item>
+        <item>Womens wear</item>
+    </string-array>
+</resources>

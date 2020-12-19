@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mprofile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Profile"
+        />
+    <item
+        android:id="@+id/mrate"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        android:title="Rate Us"
+        />
+    <item
+        android:id="@+id/mshare"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+        />
+    <item
+        android:id="@+id/mcontact"
+        android:icon="@drawable/ic_contact"
+        android:title="Contact Us"
+        />
+    <item
+        android:id="@+id/mlogout"
+        android:icon="@drawable/ic_reply_black_24dp"
+        android:title="Logout"
+        />
+</menu>

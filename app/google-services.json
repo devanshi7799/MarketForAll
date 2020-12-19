@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773609813359",
+    "firebase_url": "https://mfa-database.firebaseio.com",
+    "project_id": "mfa-database",
+    "storage_bucket": "mfa-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773609813359:android:ea1521b1883cc34510a49a",
+        "android_client_info": {
+          "package_name": "com.example.mfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773609813359-gb3ja2vkkeebvi3v4ajq6dh413kn73i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfa",
+            "certificate_hash": "2d2b4b59c9bade016e7aeef016d62bd6804cb546"
+          }
+        },
+        {
+          "client_id": "773609813359-9f1ks3r95clt6lgia5oanbgjtfh318jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_aRRz934FtAYBRcRsMF-LSsxHmUA8fPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773609813359-9f1ks3r95clt6lgia5oanbgjtfh318jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
